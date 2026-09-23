@@ -1,6 +1,6 @@
 ---
 title: "Mẫu tin: Hướng dẫn đăng tin mới"
-summary: "Bài mẫu để bạn hình dung cách đăng bài hướng dẫn hoặc video. Có thể thay nội dung hoặc xóa file mẫu sau này."
+summary: "Bài mẫu hướng dẫn cách đăng tin mới."
 type: guide
 date: 2026-09-24
 published: true
