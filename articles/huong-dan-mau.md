@@ -5,7 +5,7 @@ type: guide
 category: articles
 date: 2026-09-24
 published: true
-pinned: true
+pinned: false
 ---
 
 # Hướng dẫn đăng tin mới
