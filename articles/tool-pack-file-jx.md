@@ -5,7 +5,7 @@ type: guide
 category: tools
 date: 2026-09-24
 published: true
-pinned: true
+pinned: false
 ---
 
 # Hướng dẫn cách xài tool pack
