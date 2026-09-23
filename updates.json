@@ -3,22 +3,22 @@
   "updated_at": "2026-09-23",
   "items": [
     {
-      "id": "tool-pack-file-jx",
-      "type": "guide",
-      "title": "Tool Pack file jx",
-      "summary": "Bài mẫu hướng dẫn cách xài tool pack.",
-      "date": "2026-09-24",
-      "url": "https://github.com/hgn389/jxoffline/blob/main/articles/tool-pack-file-jx.md",
-      "published": true,
-      "pinned": true
-    },
-    {
       "id": "huong-dan-mau",
       "type": "guide",
       "title": "Hướng dẫn đăng tin mới",
       "summary": "Bài mẫu hướng dẫn cách đăng tin mới.",
       "date": "2026-09-24",
       "url": "https://github.com/hgn389/jxoffline/blob/main/articles/huong-dan-mau.md",
+      "published": true,
+      "pinned": true
+    },
+    {
+      "id": "tool-pack-file-jx",
+      "type": "guide",
+      "title": "Tool Pack file jx",
+      "summary": "Bài mẫu hướng dẫn cách xài tool pack.",
+      "date": "2026-09-24",
+      "url": "https://github.com/hgn389/jxoffline/blob/main/articles/tool-pack-file-jx.md",
       "published": true,
       "pinned": true
     }
