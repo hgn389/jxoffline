@@ -1,0 +1,32 @@
+name: Update WebPanel news feed
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'articles/**/*.md'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Generate feed from article files
+        run: python tools/build_updates.py
+      - name: Commit feed for WebPanel
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add updates.json
+          if git diff --cached --quiet; then
+            echo "Feed has no changes."
+            exit 0
+          fi
+          git commit -m "Update WebPanel news feed"
+          git push
