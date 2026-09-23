@@ -2,6 +2,7 @@
 title: "Hướng dẫn đăng tin mới"
 summary: "Bài mẫu hướng dẫn cách đăng tin mới."
 type: guide
+category: articles
 date: 2026-09-24
 published: true
 pinned: true
