@@ -1,5 +1,5 @@
 ---
-title: "Mẫu tin: Hướng dẫn đăng tin mới"
+title: "Hướng dẫn đăng tin mới"
 summary: "Bài mẫu hướng dẫn cách đăng tin mới."
 type: guide
 date: 2026-09-24
