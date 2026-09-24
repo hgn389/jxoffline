@@ -12,3 +12,5 @@ pinned: false
 Bản này của V.Khánh nha các bác
 
 [Download VLAuto by V.D.K](https://shorten.top/jQVCj)
+
+![Ảnh minh họa](https://raw.githubusercontent.com/hgn389/jxoffline/main/images/auto.jpg)
