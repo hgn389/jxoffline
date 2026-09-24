@@ -3,14 +3,14 @@
   "updated_at": "2026-09-24",
   "items": [
     {
-      "id": "tool-pack-file-jx",
+      "id": "huong-dan-mau",
       "type": "guide",
-      "category": "tools",
-      "title": "Tool Pack file jx",
-      "summary": "Bài mẫu hướng dẫn cách xài tool pack.",
+      "category": "articles",
+      "title": "Hướng dẫn đăng tin mới",
+      "summary": "Bài mẫu hướng dẫn cách đăng tin mới.",
       "date": "2026-09-24",
-      "url": "https://github.com/hgn389/jxoffline/blob/main/articles/tool-pack-file-jx.md",
-      "content": "# Hướng dẫn cách xài tool pack\n\nĐây là bài mẫu. Thay phần này bằng nội dung hướng dẫn thật của bạn.\n\nBạn cũng có thể đăng link YouTube: tạo một bài Markdown mới, đặt `type: video` ở đầu file, điền link YouTube vào trường `url`, rồi commit bài lên GitHub.\n\n\nhttps://www.youtube.com/embed/4E_O5QDOWXk?si=n7gxkPNbahGIBjZU",
+      "url": "https://github.com/hgn389/jxoffline/blob/main/articles/huong-dan-mau.md",
+      "content": "![Ảnh minh họa](https://raw.githubusercontent.com/hgn389/jxoffline/main/images/NAT-IP.jpg)\n\nĐây là bài mẫu. Thay phần này bằng nội dung hướng dẫn thật của bạn.\n\nBạn cũng có thể đăng link YouTube: tạo một bài Markdown mới, đặt `type: video` ở đầu file, điền link YouTube vào trường `url`, rồi commit bài lên GitHub.\n\n[Xem video hướng dẫn](https://www.youtube.com/watch?v=4E_O5QDOWXk)",
       "published": true,
       "pinned": false
     },
@@ -22,19 +22,19 @@
       "summary": "Download VLAuto.",
       "date": "2026-09-24",
       "url": "https://github.com/hgn389/jxoffline/blob/main/articles/VLAuto.md",
-      "content": "Bản này của V.Khánh nha các bác\n\n[Download VLAuto by V.D.K](https://shorten.top/jQVCj)",
+      "content": "Bản này của V.Khánh nha các bác\n\n[Download VLAuto by V.D.K](https://shorten.top/jQVCj)\n\n![Ảnh minh họa](https://raw.githubusercontent.com/hgn389/jxoffline/main/images/auto.jpg)",
       "published": true,
       "pinned": false
     },
     {
-      "id": "huong-dan-mau",
+      "id": "tool-pack-file-jx",
       "type": "guide",
-      "category": "articles",
-      "title": "Hướng dẫn đăng tin mới",
-      "summary": "Bài mẫu hướng dẫn cách đăng tin mới.",
+      "category": "tools",
+      "title": "Tool Pack file jx",
+      "summary": "Bài mẫu hướng dẫn cách xài tool pack.",
       "date": "2026-09-24",
-      "url": "https://github.com/hgn389/jxoffline/blob/main/articles/huong-dan-mau.md",
-      "content": "![Ảnh minh họa](https://raw.githubusercontent.com/hgn389/jxoffline/main/images/NAT-IP.jpg)\n\nĐây là bài mẫu. Thay phần này bằng nội dung hướng dẫn thật của bạn.\n\nBạn cũng có thể đăng link YouTube: tạo một bài Markdown mới, đặt `type: video` ở đầu file, điền link YouTube vào trường `url`, rồi commit bài lên GitHub.\n\n[Xem video hướng dẫn](https://www.youtube.com/watch?v=4E_O5QDOWXk)",
+      "url": "https://github.com/hgn389/jxoffline/blob/main/articles/tool-pack-file-jx.md",
+      "content": "# Hướng dẫn cách xài tool pack\n\nĐây là bài mẫu. Thay phần này bằng nội dung hướng dẫn thật của bạn.\n\nBạn cũng có thể đăng link YouTube: tạo một bài Markdown mới, đặt `type: video` ở đầu file, điền link YouTube vào trường `url`, rồi commit bài lên GitHub.\n\n\nhttps://www.youtube.com/embed/4E_O5QDOWXk?si=n7gxkPNbahGIBjZU",
       "published": true,
       "pinned": false
     }
