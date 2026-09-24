@@ -3,14 +3,14 @@
   "updated_at": "2026-09-24",
   "items": [
     {
-      "id": "tool-pack-file-jx",
+      "id": "vlbs",
       "type": "guide",
       "category": "tools",
-      "title": "Tool Pack file jx",
-      "summary": "Bài mẫu hướng dẫn cách xài tool pack.",
+      "title": "Auto VLBS - AutoTrainQSRPec",
+      "summary": "Auto Võ lâm bí sử - 1.3 - 1.9",
       "date": "2026-09-24",
-      "url": "https://github.com/hgn389/jxoffline/blob/main/articles/tool-pack-file-jx.md",
-      "content": "# Hướng dẫn cách xài tool pack\n\nĐây là bài mẫu. Thay phần này bằng nội dung hướng dẫn thật của bạn.\n\nBạn cũng có thể đăng link YouTube: tạo một bài Markdown mới, đặt `type: video` ở đầu file, điền link YouTube vào trường `url`, rồi commit bài lên GitHub.\n\n\nhttps://www.youtube.com/embed/4E_O5QDOWXk?si=n7gxkPNbahGIBjZU",
+      "url": "https://github.com/hgn389/jxoffline/blob/main/articles/vlbs.md",
+      "content": "Auto Võ lâm bí sử - 1.3 - 1.9\n\nhttps://shorten.top/unaQj",
       "published": true,
       "pinned": false
     },
