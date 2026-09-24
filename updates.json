@@ -3,6 +3,18 @@
   "updated_at": "2026-09-24",
   "items": [
     {
+      "id": "huong-dan-cau-hinh-ip",
+      "type": "guide",
+      "category": "articles",
+      "title": "Hướng dẫn cấu hình IP",
+      "summary": "Hướng dẫn cấu hình IP.",
+      "date": "2026-09-24",
+      "url": "https://github.com/hgn389/jxoffline/blob/main/articles/huong-dan-cau-hinh-ip.md",
+      "content": "![Ảnh minh họa](https://raw.githubusercontent.com/hgn389/jxoffline/main/images/NAT-IP.jpg)\n\n[Xem video hướng dẫn](https://www.youtube.com/watch?v=4E_O5QDOWXk)",
+      "published": true,
+      "pinned": false
+    },
+    {
       "id": "vlbs",
       "type": "guide",
       "category": "tools",
@@ -23,18 +35,6 @@
       "date": "2026-09-24",
       "url": "https://github.com/hgn389/jxoffline/blob/main/articles/VLAuto.md",
       "content": "Bản này của V.Khánh nha các bác\n\n[Download VLAuto by V.D.K](https://shorten.top/jQVCj)\n\n![Ảnh minh họa](https://raw.githubusercontent.com/hgn389/jxoffline/main/images/auto.jpg)",
-      "published": true,
-      "pinned": false
-    },
-    {
-      "id": "huong-dan-mau",
-      "type": "guide",
-      "category": "articles",
-      "title": "Hướng dẫn đăng tin mới",
-      "summary": "Bài mẫu hướng dẫn cách đăng tin mới.",
-      "date": "2026-09-24",
-      "url": "https://github.com/hgn389/jxoffline/blob/main/articles/huong-dan-mau.md",
-      "content": "![Ảnh minh họa](https://raw.githubusercontent.com/hgn389/jxoffline/main/images/NAT-IP.jpg)\n\nĐây là bài mẫu. Thay phần này bằng nội dung hướng dẫn thật của bạn.\n\nBạn cũng có thể đăng link YouTube: tạo một bài Markdown mới, đặt `type: video` ở đầu file, điền link YouTube vào trường `url`, rồi commit bài lên GitHub.\n\n[Xem video hướng dẫn](https://www.youtube.com/watch?v=4E_O5QDOWXk)",
       "published": true,
       "pinned": false
     }
