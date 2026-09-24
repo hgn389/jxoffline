@@ -1,5 +1,5 @@
 ---
-title: "VLAuto"
+title: "Download VLAuto"
 summary: "Download VLAuto."
 type: guide
 category: tools
