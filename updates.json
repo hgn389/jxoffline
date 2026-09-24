@@ -3,18 +3,6 @@
   "updated_at": "2026-09-24",
   "items": [
     {
-      "id": "huong-dan-cau-hinh-ip",
-      "type": "guide",
-      "category": "articles",
-      "title": "Hướng dẫn cấu hình IP",
-      "summary": "Hướng dẫn cấu hình IP.",
-      "date": "2026-09-24",
-      "url": "https://github.com/hgn389/jxoffline/blob/main/articles/huong-dan-cau-hinh-ip.md",
-      "content": "![Ảnh minh họa](https://raw.githubusercontent.com/hgn389/jxoffline/main/images/NAT-IP.jpg)\n\n[Xem video hướng dẫn](https://www.youtube.com/watch?v=4E_O5QDOWXk)",
-      "published": true,
-      "pinned": false
-    },
-    {
       "id": "vlbs",
       "type": "guide",
       "category": "tools",
@@ -23,6 +11,18 @@
       "date": "2026-09-24",
       "url": "https://github.com/hgn389/jxoffline/blob/main/articles/vlbs.md",
       "content": "Auto Võ lâm bí sử - 1.3 - 1.9\n\nhttps://shorten.top/unaQj",
+      "published": true,
+      "pinned": false
+    },
+    {
+      "id": "huong-dan-cau-hinh-ip",
+      "type": "guide",
+      "category": "articles",
+      "title": "Hướng dẫn cấu hình IP",
+      "summary": "Hướng dẫn cấu hình IP.",
+      "date": "2026-09-24",
+      "url": "https://github.com/hgn389/jxoffline/blob/main/articles/huong-dan-cau-hinh-ip.md",
+      "content": "![Ảnh minh họa](https://raw.githubusercontent.com/hgn389/jxoffline/main/images/NAT-IP.jpg)\n\n[Xem video hướng dẫn](https://www.youtube.com/watch?v=4E_O5QDOWXk)",
       "published": true,
       "pinned": false
     },
