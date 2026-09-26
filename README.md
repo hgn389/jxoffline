@@ -6,6 +6,7 @@
 # Cài đặt làm sao nhỉ?
 https://youtu.be/TiOncjYUv_M
 
-# Linh Tài Vê
+# Linh Tài Vê - Pass 1
 https://shorten.top/v3jxoffline
 
+hoặc https://mega.nz/folder/VkQyyKyB#NLE_-y9HyMlAGOYYNBmlhA
